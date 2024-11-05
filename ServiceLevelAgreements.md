@@ -62,6 +62,6 @@ Past Deadline | 11am Thursday | Urgency +15 | 75
 Past Deadline | 12pm Thursday | Urgency +15 | 90
 Past Deadline | 1pm Thursday | Urgency +15 | 100
 
-![](img/Graph.png)
+<img src="img/Graph.png" width="500" />
 
-What happens if a manager goes on vacation? If timecards in this scenario require manual approval from the manager, these tasks risk reaching the Past Deadline interval. The company may want to configure additional actions if the task reaches later intervals. For example, the task could get assigned to the manager's manager when the deadline is reached. Or, the timecard could auto-approve if it reaches the Past Deadline interval.
+What happens if a manager goes on vacation? If timecards in this scenario require manual approval from the manager, these tasks risk reaching the Past Deadline interval. The company may want to configure additional actions if the task reaches later intervals. For example, the task could get assigned to the manager's manager when the Deadline is reached. Or, the timecard could auto-approve if it reaches the Past Deadline interval.
